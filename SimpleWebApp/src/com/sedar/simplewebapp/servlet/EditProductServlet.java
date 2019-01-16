@@ -17,8 +17,7 @@ import com.sedar.simplewebapp.utils.MyUtils;
  
 @WebServlet(urlPatterns = { "/editProduct" })
 public class EditProductServlet extends HttpServlet {
-
-	private static final long serialverisonUID=1L;
+	private static final long serialVerisonUID=1L;
 	
 	public EditProductServlet() {
 		super();

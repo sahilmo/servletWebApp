@@ -1,4 +1,4 @@
-package com.sedar.simplewebapp.filter;
+package com.sedar.simplewebapp.servlet;
 
 import java.io.IOException;
 import java.sql.Connection;
